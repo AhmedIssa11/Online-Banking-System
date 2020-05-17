@@ -1,5 +1,5 @@
 # Online-Banking-System
-Online Banking System - Desktop Application
+Online Banking System - Desktop Application With SRS Documentation
 
 
 - Project Scope: The scope of this project will be on Customers, Tellers and Admins. This system is responsible for operating a payment system, providing loans, taking deposits, and helping with investments.
